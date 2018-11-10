@@ -1,2 +1,2 @@
 # CampSight-Services-Java
-CampSights API built with Node.js
+CampSights API built with Java.
